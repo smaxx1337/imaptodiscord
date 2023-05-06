@@ -1,0 +1,6 @@
+{
+    "hostname": "example.com",
+    "username": "username",
+    "password": "PASSWORD",
+    "webhook": "discord_webhook"
+}
